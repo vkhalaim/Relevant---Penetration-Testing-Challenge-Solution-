@@ -27,7 +27,8 @@ My way to find the flags might be a bit cheety :)
 2.1 Utilized the discovered exploit to gain a reverse shell.
 
 ![image](https://github.com/vkhalaim/TryHackMe-Writeups/assets/6991893/fb820f16-a5ea-4fb8-8aed-6528449bc181)
-Spen some time to look around the system and find the way to escalate priveleges.
+
+Spent some time to look around the system and find the way to escalate priveleges.
 
 ![image](https://github.com/vkhalaim/TryHackMe-Writeups/assets/6991893/3121477d-a2f2-439e-9396-6227a79ffee3)
 
